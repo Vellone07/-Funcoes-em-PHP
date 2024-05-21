@@ -3,7 +3,7 @@ Funções em PHP 🖥️
 Este é um projeto que demonstra o uso de funções em PHP para realizar operações básicas com números. As funções incluem verificar se um número é par ou ímpar, se é positivo, negativo ou zero.  
 
 Funcionalidades Principais 🚀  
-Verificação de Par ou Ímpar 🔄:
+Verificação de Par ou Ímpar 🔄:  
 Identifica se um número é par ou ímpar.  
 Classificação de Positivo, Negativo ou Zero 🔢:  
 Determina se um número é positivo, negativo ou zero.
@@ -36,6 +36,5 @@ Tecnologias Utilizadas 💻
 PHP: Linguagem de script do lado do servidor para manipulação de dados.
 CSS: Linguagem usada para decorar o Script
 
-Agradecimentos 🙏  
+Agradecido🙏  
 
-Obrigado por explorar este projeto de funções em PHP! Esperamos que seja útil para entender conceitos básicos de funções e operações numéricas. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.  
